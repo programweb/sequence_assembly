@@ -2,7 +2,7 @@
 
 During sequencing, the DNA was broken into smaller fragments.  Assembly is the process of turning these 'reads' (shorter individual measurements) back into 'contigs' (longer contiguous sequences). To establish the DNA composition of the organism, a **genome assembly** is performed. If building the transcript (RNA) expression for the organism, that is a **transcriptome assembly**.
 
-Demonstration
+Demonstration.
 Picking a run from the Ebola virus with run ID:  [SRR1553425](https://www.ncbi.nlm.nih.gov/sra/?term=SRR1553425 "Run ID: SRR1553425")
 
 
