@@ -4,7 +4,7 @@
 
 &nbsp;
 
---- --- --- _I PLAN TO ADD MORE TO THIS CODE SAMPLE IN THE NEAR FUTURE._ --- --- ---
+--- --- --- _I MAY ADD MORE TO THIS CODE SAMPLE IN THE NEAR FUTURE._ --- --- ---
 &nbsp;
 
 &nbsp;
