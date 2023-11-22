@@ -1,17 +1,33 @@
 # sequence_assembly
-
-&nbsp;
-
-&nbsp;
-
---- --- --- _I MAY ADD MORE TO THIS CODE SAMPLE IN THE NEAR FUTURE._ --- --- ---
-&nbsp;
-
-&nbsp;
-
-
+## Genome Assembly
 
 During sequencing, the DNA was broken into smaller fragments.  Assembly is the process of turning these 'reads' (shorter individual measurements) back into 'contigs' (longer contiguous sequences). To establish the DNA composition of the organism, a **genome assembly** is performed. If building the transcript (RNA) expression for the organism, that is a **transcriptome assembly**.
+&nbsp;
+
+Sequence data for the bacteria Staphylococcus aureus known for its potential to cause various skin and soft tissue infections.
+&nbsp;
+
+![Screenshot_2023-11-22_annot](https://github.com/programweb/sequence_assembly/assets/12736699/720151a0-0901-4400-98de-51c17ee1139f)
+&nbsp;
+
+![Screenshot_2023-11-22_annot2](https://github.com/programweb/sequence_assembly/assets/12736699/acc43a04-3683-4b5d-ad09-bdfa230df8f0)
+&nbsp;
+
+Install FastQC (dmg on Mac OS) to run a report (or generate an HTML report)
+&nbsp;
+
+Left is SRR022868; the right plot is for run SRR022865
+&nbsp;
+
+<img width="776" alt="Screenshot 2023-11-22 at 7 07 11 AM" src="https://github.com/programweb/sequence_assembly/assets/12736699/33b8e473-6242-49ad-b6a6-71831645496d">
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+## Ebola Example
+&nbsp;
 
 Demonstration.
 Picking a run from the Ebola virus with run ID:  [SRR1553425](https://www.ncbi.nlm.nih.gov/sra/?term=SRR1553425 "Run ID: SRR1553425")
@@ -49,3 +65,8 @@ genome.contigs.fa  FASTA   DNA     190     16,812      63     88.5      277
 * 190 contigs
 * the average length is 88.5bp
 * the longest is 277bp
+
+&nbsp;
+
+--- --- --- _I COULD ADD MORE TO THIS CODE SAMPLE IN THE FUTURE._ --- --- ---
+&nbsp;
