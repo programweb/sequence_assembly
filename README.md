@@ -13,6 +13,12 @@ Sequence data for the bacteria Staphylococcus aureus known for its potential to 
 ![Screenshot_2023-11-22_annot2](https://github.com/programweb/sequence_assembly/assets/12736699/acc43a04-3683-4b5d-ad09-bdfa230df8f0)
 &nbsp;
 
+That goes on for a while but ends like this:
+&nbsp;
+
+![Screenshot 2023-11-22 at 6 22 41 AM](https://github.com/programweb/sequence_assembly/assets/12736699/a13e39c0-fd42-4954-b0c0-f9d04da1b46c)
+&nbsp;
+
 Install FastQC (dmg on Mac OS) to run a report (or generate an HTML report)
 &nbsp;
 
